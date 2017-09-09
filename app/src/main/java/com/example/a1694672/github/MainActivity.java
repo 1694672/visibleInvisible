@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
 
         myContainer =(ViewGroup)findViewById(R.id.AnimationContainer);
         myTextView =(TextView)findViewById(R.id.textView);
+
+
     }
 
     @RequiresApi(api = Build.VERSION_CODES.KITKAT)
